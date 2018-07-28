@@ -3,6 +3,6 @@ Implementation of CVPR paper "A Bayesian Approach to Digital Matting " by Yung Y
 
 Implementation of CVPR paper "A Bayesian Approach to Digital Matting " by Yung Yu, Chuang
 
-![Image](Origin.png)
+![Image](origin.png)
 ![Image2](trimapOrigin.png)
 ![Image3](Output.png)
